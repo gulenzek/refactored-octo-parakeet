@@ -1,0 +1,284 @@
+Testing nedir?
+=================================
+ISTQB-
+International Software Kurumu
+Testing nasıl yapılıyor?
+
+
+Sertifikasyon var.
+Model based
+Usability
+Automotive Software Tester
+Gambling Industry Testing
+Mobile Application testing
+Performance Testing
+Acceptance Testing
+
+Test nedir?
+Yazılımın amacı nedir?
+Kalem olmuş mu diye birşeye bakmak lazım.
+Belli bir şeye bakılır. Input - Output a bakma lazım.
+Correctness, completeness, quality of developed computer software
+
+Hata bulmak! Testerin amacı! Dikkat!.
+
+Error - Yazılımcı
+Zihin dünyasında farklı birşeyler düşünmekten kaynaklı.
+
+Fault - Bug - Defect - Yazılımcı: Kodda olan bir durum.
+
+Failure - Kullanıcı seviyesi - Tester
+
+
+Incident
+
+Bug = Böcek.
+
+Relay sistemler.  Relay 70 Panel. Debugging.. Ölü böceği almak.
+
+Test yapılmazsa;
+ - Harming people, companies, environment
+
+ - Results; loss of money, loss of time, loss of business, injury, death
+
+Testing objectives
+
+- to detect defects
+- to gain the confidence of the customers
+- to provide information about level of quality
+- to prevent defects
+- to determine that software products satisfies specified requirements
+
+
+7 Testing principles
+========================================
+
+1 - Early testing
+Yazılım geliştirme sürecinin erken aşamalarında yapılmasına deniliyor.
+Test, "test execution", "test run"'dan ibaret değildir.
+2 - Testing shows presence of defects
+Test ettin hata buldun, hata bulamadın. "Hatasız demek değildir." Dikkat!
+
+3 - Exhaustive testing is impossible
+
+
+4 - Defect clustering
+10 ekran var ve 20 bug çıkar dedik.
+Analistin, developerın daha zayıf olduğu yerde daha fazla çıkar. Daha fazla kullanılan yerlerde daha fazla çıkar.
+
+Yazılan kodlar testera teslim etmeden önce sınırlı bir zamanın olması ve burada hatam olabilir diyerek.
+
+5 - Pesticide paradox: Haşere ilacı.
+Antibiyotik ilaçlar. Testler içinde geçerli. Test caselerde yazılım hata vermeyecektir.
+
+
+6 - Testing is Context Dependent
+Ebay ve Patriot füze testi aynı olmaz.
+Balon hava çekip var mı diye bakılıyor.
+Airbag mesela. Patlatıp dolup dolmadığı.
+
+Cep telefonları state
+
+7 - Absence of errors fallacy
+Analistin çalışması gerekiyor.
+
+===========================================
+
+1- Testing shows presence of defects
+2- Exhaustive testing is impossible
+3- Early testing = Ürünün bitmesi gerekmez.
+4- Defect clustering
+5- Pesticide paradox = Farklı test tekniği ile yapılması gerekiyor.
+6- Testing is context dependent
+7- Absence of errors - fallacy = Analist yanlış gereksinim yazmış. Şöyle söylediniz doğru mu anlamışım?
+
+============================================
+
+Test süreci
+===========
+Test stratejisi
+Planning and control
+[1-01.png dosyası]
+
+Testin analiz ve tasarımı.
+Test case'lerin yazılması. [Implementation and execution control]
+Evaluating exit criteria and reporting
+Sıfır major bug - Koşulmuş testlerin sıfır
+Test closure activities - Kurumun bilgi birikimine konulması.
+
+End.
+[1-01.png]
+[1-02.png dosyası]
+
+Testin psikolojisi
+Kötü birşey değil test edilmek.
+Ya Serdar ne biçim kötü kod yazmışsın değil.
+
+Bu ekranda 3 ve 2 girdim 5 alması gerekiyordum 6 aldım. Bir bakar mısın? [Olayı nesnelleştirmek.]
+
+build confidence
+prove that the software is correct
+demonstrate conformance
+
+[1-02.png kapandı.]
+
+Summary
+===============
+2. bölümde
+[1-03.png]
+
+Yönümüzü doğru yöne çevirmeliyiz. Temel fıkrası Özgürlük anıtını görünce geri dönmeye karar veriyor.
+
+Validation = Müşterinin ihtiyacını karşıladı mı?
+Verification = Test procesi ile alakalı
+
+[1-04.png]
+[1-05.png]
+SDLC (Development) => STLC (Test)
+
+
+[1-08.png] Test Levels (2)
+[1-09.png] Integration Testing
+
+Sistemler arasında bir entegrasyon olabilir. 
+Componentlar üzerinde entegrasyon olabilir.
+[1-10.png] System testing
+[1-11.png] Acceptance testing
+
+Alpha ve Beta testleri de kabul testleridir.
+[1-12.png]
+
+Test tipleri [1-13.png]
+Geçerli kullanıcı adıyla alınan  vs. ()
+10 tane işlevsel 10 tane işlev dışı gereksinim çıkarıyoruz.
+
+Kurumsal Dijital Gamification Uygulaması
+=========================================
+kadir.camoglu@bilgeadam.com
+Kurum kimliğini uygulamak istiyoruz. denildi.
+
+
+
+Ağır mı? Drone?
+Bilgi veren rapor gösteren de fonksiyonel 
+Farklı sistemler derken (?) Hangi sistemler?
+Robustness deniliyor?
+
+Best practices = öğrene yanıla öğreniyoruz.
+
+Siyah da göstersen lacivertte göstersen
+
+Functional olabiliyor. kırmızı turuncu yeşil call center'daki örnek.
+
+
+[1-15.png]
+
+Şerh koyarak almanız artı değer üretebilir.
+
+Tester perspektifinden bakmamız gerekiyor.
+
+Özel uzmanlık alanı olan alanlar non-functional
+
+load / stress = istenilen sürede geliyor mu?
+aynı anda = milisaniyeden bahsediyorum.
+
+stress testing:
+1000 kişi 1500 kişi sonraki 500 kişi?
+sonraki kişiler nasıl yönetiliyor?
+
+kullanılabilirlik testi: son kullanıcı! Dikkat!
+
+TC kimlik nomu girmem diyenler! Vidobu
+
+
+[1-16.png] Test Structural Testing
+
+Confirmation testing
+= Test yaptık. bug çıktı. düzeltildi. tekrar yapcağız. Tekrar yapacağımız case  üzerinden yeniden test edeceğiz.
+Regression testing = Başka bir kısmı unutuyoruz. Son düzelttiğimiz çalışıyor. Testerin görevi daha çok doğru olduğu düşünülen kısmı yeniden test eder.
+Regresyon buna deniliyor.
+
+Test automation: yazılım araçları tarafından yapılan yerler.
+[1-17.png] test levels and test types
+
+
+Unit testing stratejide yok Türkiye'de.
+
+Zafer Demirkol, Yapay zeka vesair.
+
+Maintenance testing [1-18.png]
+
+Regresyon testi çok daha kritik.
+
+Impact analysis and regression testing // Dikkat? Bakılacak!
+
+[1-19.png] Static test = Review yapılacaktır.
+
+Exception management?
+
+
+Review 8% kazandırıyor.
+
+Eleştiren insanlara, Çok değer vermek gerekiyor.
+
+Static Dikkat.
+
+
+Test case = identify test conditions
+specify test cases
+specify test procedures
+
+Happy Pad!
+
+Veri yapıları dikkat!
+==================================================
+- PROJE - FONKSİYON - EKRAN BELİRLEME
+- Login ekranı
+- Metin dosyasından okunacak sayı dizisi üzerine istatistiksel hesaplama
+
+- Ekranlar olmalı, mantık/logic olmalı - algoritma, ekran tasarımı
+
+
+- Temel Matematik Windows Uygulaması TEMU
+1. Ekran: Toplama ekranı.
+- iki sayı alacak, bir buton olacak. butona basınca sayıları toplayarak ekranda mesaj olarak gösterecek.
+Ancak sayı olmayan girdi kontrolü olacak. Aynı zamanda ondalık sayılarda da hatasız işlem yapacak. Sayı ondalıksa ondalıklı, tam sayı ise tam sayo larak gösterecek.
+
+Ödev (10/2/2021)
+=================================================
+1. Ekran: Ziyaretçi Rehberi Ekranı
+=================================================
+Adı, Soyadı, E-posta Adresi, Telefon Numarası, Ziyaret tarihi ve saati, Mesaj alanı olan ve iki butonlu bir ekran olacak. Yukarıda yazılı bilgileri tam olarak alıp ekrana bir mesaj olarak gösterecek. E-posta adresi "kullanici.adi@domain.[com,org,gov].[tr]" şeklinde, giriş tarihi ise "01 Mart 2021, 14:35" şeklinde yer alacak. Kişinin adı en az 3 an fazla 30 karakter uzunluğunda, soyadı ise en az 3 en fazla 50 karakter uzunluğunda olacak. E-posta adresi en fazla 100 karakter uzunluğunda olacak. Telefon numarası ise 0 (999)-999-99-99 şeklinde olacaktır.
+=================================================
+2. Ekran: Login ekranı
+=================================================
+Kullanıcı adı ve şifre alanı olan ve bir butonla giren kişinin doğru kişi olup olmadığını gösteren ekran olacak. Güvenlik açısından şifre kısmı farklı bir karakter olan "*" işareti ile gösterilecek ve bu alan Rakam, Büyük karakter, Küçük karakter ve noktalama işaretlerinden oluşan bir kombinasyonla belirlenecek ve en az 8 karakter uzunluğunda olacak.
+=================================================
+3. Ekran: Çift mi Tek mi ekranı 
+=================================================
+Kullanıcının gireceği bir Konsol ekranında "Bir sayı giriniz:" yazılı ekran üzerinde girilen şeyin bir tek rakam veya çift rakam olduğunu söyleyen bir uygulama olacak. Burada girilen şeyin rakam olduğunu tespit ederek tek mi veya çift mi olup olmadığını söyleyecek. Rakamlar tam sayı olacak ve diğer rakamlar için yeniden girilmesi gerektiği uyarısı verilecek.
+=================================================
+4. Ekran: Kaç basamak ekranı
+=================================================
+Kullanıcıya "Bir rakam giriniz" dedikten sonra girilen ifadenin kaç basamaktan oluştuğunu söyleyecek bir program. Rakamın ne olduğunu ve kaç basamaktan oluştuğunu yazacak.
+=================================================
+5. Ekran: Dosya İndirme Ekranı
+=================================================
+Yukarıdan aşağıya doğru sistemin paylaştığı klasör üzerindeki dosyaları seçerek bir buton yardımıyla indirebileceği bir ekran. 
+=================================================
+6. Ekran: Vücut Kitle İndeksi
+=================================================
+Kullanıcıdan boy ve kilo bilgilerini aldıktan sonra bir buton yardımıyla (veya yardımsız) vücut kitle indeksini ölçen ve bulduğu değerlere göre "Kuru, Zayıf, Normal, 1. derece kilolu, 2. derece kilolu, Oldukça kilolu" şeklinde belirten bir uygulama
+=================================================
+7. Ekran: Projenin Bittiğini Belirten Ekran
+=================================================
+Kullanıcıdan projenin bitip bitmediğini belirten bir ekran tasarlanması istenir. Burada projenin ön hazırlık aşaması, yazılma aşaması, editleme ve son kontrol aşamalarında olup olmadığı ile ilgili bilgiler istenir ve sonuç ekrana yüzde olarak yazılır. "75% oranında bitmiştir." denilir.
+=================================================
+8. Ekran: Okuma hızı ekranı
+=================================================
+Kullanıcının okuma hızını ayarlayan bir ekran. Okumaya başladığı noktadan bitirdiği noktaya kadarki kısımdaki sözcük sayısını hesaplayan ve bunu dakikaya bölen bir sistem. Sonuç ekrana "50 sözcük/dakika hızda okuyorsunuz." denir.
+
+
+9. Ekran: Girilen sayının basamaklarını hesaplayan program
+=================================================
+Kullanıcıdan bir rakam girmesi ve bu rakamın kaç basamaklı olduğunu yazan ekran. 
