@@ -1,0 +1,136 @@
+Test Case yazılırken dikkat edilmesi gerekiyor.
+=====
+Ne yapacak - Neyi görecek!
+
+
+Bütün test caselerde neler gerekiyorsa ona göre yazmak gerekiyor. Para yatırma hazinesin
+
+Ön koşula yazabiliriz. Test yaparken "TC02'deki ilk dört adımı çalıştır." gibi bir ön koşul olmalı.
+
+Genel ifadeler kullanılacak.
+
+Test case , Use case, 
+Bazı çalışmalarda kendi analistliğimizi yapacağız. Dikkat.
+
+Neuroscience 1000 kat. Görseli anlamlandırmak metni anlamlandırmaktan daha kolay.
+
+Use case genel, Test case emir kipi kullanır.
+
+Kartı tak. -- Şifre ekranını gör!
+
+Önceki adımları gerçekleştirmeden sistem izin vermez. Dikkat!
+
+Minimum happy path, alternatif bir akış olması lazım.
+
+Alternatif sayısı işe göre değişir.
+
+Sahte parada ihbar edilebilir mi?(???)
+
+Paraları doğru sayıyor mu?
+
+Test edilmiş hali..
+
+UML Use Case ve Test Case bitti.
+===============================
+
+Black Box'da kodu görmüyorduk. 
+White Box'da ise kodu görüyoruz.
+
+Hoca iki kez yapmış.
+
+==> Oklar - Nodlar + 2 = Test Case sayısını veriyor.
+
+Choosing Test techniques
+================================
+internal ~ external factors
+
+Test organization: En istenmeyen test developer tarafından yapılan testtir.
+
+"Buddy testing" bir başka developer tarafından test.
+
+compatibility = uyumluluk 
+
+dışarıdaki test kurumu: projeyi hissedemeyebilir.
+
+İyi bir Tester:
+
+ - Test alanında iyi olması lazım.
+ - Teknolojiyi bilmesi gerekiyor.
+ - IoT çok yaygınlaştı.
+ - İş Alanını iyi bilmesi gerekiyor.
+ - Bu üçü minimum seviye.
+
+- Yazılım süreçlerini iyi bilmek. Agile/SCrum nedir?
+- Sosyal Beceriler: Soft skills
+Zaman yönetimini bilmemiz lazım, iletişim becerilerimizi bilmemiz lazım.
+- Tester, developerla iyi geçinmek lazım.
+- network ilişkiler
+- çatışma yönetimi, müzakere yönetimi
+- beyaz yakalı 20 tane şey. soft skill becerisi tanımlamış
+- competency: en çok aranan yetenekler.
+- yazılım süreçleri
+- sosyal beceriler
+
+Test planning
+=========================
+plans/estimates/strategies
+
+İK işi için 84 saat analiz gerekir.
+
+Efor tahminleme: 
+Takvim tahminleme: 16 Şubat - 15 Mart'ta biter.
+=========================
+
+Full stack developer. Saat dakika veriyorlar. ASP.Net developerıyım diyor.
+=============================
+
+Bir test için estimation vermemizi istiyor.
+
+Zeki - Para çekme ve yatırmayı test etmek.
+Alihan - Havale ve EFT
+Serdar - Fatura yatırma
+Mina -Kredi kartı işlemleri kullanıcı bilgileri test etmek.
+
+==================================
+
+İş Kırılımı - Work Breakdown Structure
+=====================================
+Para Yatırma ve Para çekme
+=====================================
+- Analiz dökümanını okumak (Test caselerin ana başlıklarının belirlenmesi) = 8 saat
+- Test caselerin çıkartılması = 16 saat
+- Test caselerin uygun formatta yazılması = 8 saat
+
+
+Brüt olarak = 32 saat
+20% buffer = 38 saat = 5 gün
+
+23 Şubat'ta başlayabiliriz = 2 Mart'ta biter.
+Start = 23 Şubat
+Deadline = 2 Mart.
+
+Eksik var.
+=====================================
+
+Test konuları, iş yaptıkça pekişecek konulardır.
+
+Öncelik
+Priority
+
+Incident = Failure'da karşılaştığımız şeylere bulgu diyoruz.
+
+Test Yönetim Araçları (Tools for Test Management and Control)
+
+===========================================
+Lets say you are testing an application. You have written a set of test cases.
+
+Now you run one cycle of testing. You find few bugs and report them to the development team. Development team fixes the bugs and reverts to you 
+with the updated code. You again execute the same set of test cases. This time you find that few of the bug were still not fixed and you report 
+that back to the development team. They work on it and send an update to you. Once again, you execute the same set of test cases and don't find 
+any bugs.
+
+Now in a new release some changes were made in the application. You run the same set of test cases and they all pass. But, what you miss here is
+the new bugs that may have introduced when the fix and new changes were applied. The old set of test cases are incapable of identifying these 
+new bugs.
+
+This is called Pesticide Paradox. To avoid this you need to update your test cases with each cycle and add new cases to the old set.
