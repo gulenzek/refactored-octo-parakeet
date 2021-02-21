@@ -1,0 +1,66 @@
+Analiz dökümanını almadan önce soracağımız soruları soracağız. Dikkat!
+
+Test Case:
+
+Neleri test edeceğimizi belirliyorduk.
+
+Flash Card Uygulaması Test
+==================================================================
+Ekran alanlarının test edilmesi. 
+ - Doğru şekilde yazılmış mı? Doğru biçimde geliyor mu?
+
+Ekran prototipe uygun mu?
+
+Ekran alanları istenildiği gibi çalışıyor mu?
+
+Uygulama yüklendiğinde seçilebilecek maksimum kelime sayısını doğru gösteriyor mu?
+
+Seçmiş olduğum soru sayısı kadar soru geliyor mu?
+
+Başla dediğimde ayarlar kısmı disable oluyor mu?
+
+Sorular bittiğinde ekran prototipe göre geliyor mu?
+
+Yeni denildiğinde yeniden başlatabiliyor muyum?
+
+Yeniden başladığında soru sayısı bir önceki soru sayısı kadar geliyor mu?
+
+İleri basıldığında bir sonraki soruya geçiyor mu?
+
+Devam fonksiyonu işlevini yerine getiriyoru mu?
+
+Sorular bittiğinde doğru hesaplayabiliyor mu?
+
+İngilizce - Türkçe geliyor mu?
+Türkçe - İngilizce geliyor mu?
+
+
+Kayıt ekleme işlemi doğru yapılıyor mu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================
+Uygulama ilk açıldığında geçmiş yükleniyor mu?
+
+Uygulamada listeden herhangi birine tıklandığında sağ tarafta bilgilerinin gelmesi
