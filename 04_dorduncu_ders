@@ -1,0 +1,39 @@
+Non-functional testler memnuniyeyi giderebiliyor.
+Servicelerde genelde böyle oluyor.
+
+Analiz dökümanınıda göndereceğiz.
+
+UML Use Case
+=================================================
+Banka ATM para çekme.
+
+
+
+Başlatıcılar:
+- ATM ana menüden para çekme seçeneğine tıklanırsa
+
+
+
+
+
+
+
+
+
+Ön koşullar:
+
+
+
+
+
+Senaryolar:
+
+
+
+
+Çıkış Koşulu:
+
+
+
+
+
